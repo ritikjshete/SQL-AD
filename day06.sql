@@ -50,7 +50,7 @@ VALUES
 (29, 'Cathy', 'Clark', 'cathy.c@email.com', '666-777-8888', '543 Birch St', 'CityY', 'OH', '97531', 'USA'),
 (30, 'Daniel', 'White', 'daniel.w@email.com', '555-666-7777', '432 Oak St', 'RandomCity', 'NC', '24680', 'USA');
 
--- Create the Products table
+-- Create the Products table 
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY,
     ProductName VARCHAR(100),
