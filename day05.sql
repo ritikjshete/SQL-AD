@@ -10,7 +10,7 @@ CREATE TABLE Employee (
     Salary INT
 );
 
--- Insert 30 Rows
+-- Insert 30 Rows in this DB
 INSERT INTO Employee VALUES
 (1, 'John', 'Doe', 50000),
 (2, 'Jane', 'Smith', 60000),
