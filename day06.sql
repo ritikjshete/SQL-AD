@@ -65,7 +65,7 @@ CREATE TABLE Products (
 );
 
 -- Insert 30 rows of sample data into the Products table
--- Insert 30 rows into the Products table
+-- Insert 30 rows into the Products table 
 INSERT INTO Products (ProductID, ProductName, Category, Price, StockQuantity, Description, Manufacturer, Weight, ReleaseDate, InStock)
 VALUES
 (1, 'Laptop', 'Electronics', 899.99, 50, 'High-performance laptop', 'ABC Electronics', 3.5, '2022-01-01', true),
