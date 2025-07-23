@@ -17,7 +17,7 @@ CREATE TABLE Cars (
 );
 
 -- Insert 30 Rows of Sample Car Data
--- Insert rows from CarID 1 to 30
+-- Insert rows from CarID 1 to 30 in table
 
 INSERT INTO Cars (CarID, Brand, Model, Year, EngineType, FuelType, TransmissionType, Color, Mileage, Price)
 VALUES
