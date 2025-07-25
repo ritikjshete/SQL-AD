@@ -100,7 +100,7 @@ select * from cars;
 select* from cars
 where price > (select avg(price) from cars);
 
--- 2.	Retrieve the brand and model of the car with the highest mileage. 
+-- 2.	Retrieve the brand and model of the car with the highest mileage . 
 select brand , model from cars
 order by mileage desc
 limit 1;
