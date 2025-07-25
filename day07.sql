@@ -7,7 +7,7 @@ drop database company1;
 -- Q3 Create database (company)
 create database company;
 
--- Q4. Delete Database company
+-- Q4. Delete Database company 
 drop database company
 
 use company;
