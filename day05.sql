@@ -2,7 +2,7 @@
 CREATE DATABASE SampleDB;
 USE SampleDB;
 
--- Create Table
+-- Create Table 
 CREATE TABLE Employee (
     EmployeeID INT PRIMARY KEY,
     FirstName VARCHAR(50),
