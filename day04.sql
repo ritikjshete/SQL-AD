@@ -4,7 +4,7 @@ USE CarDB;
 
 -- Create Cars Table in Database 
 
-CREATE TABLE Cars (
+CREATE TABLE Cars ( 
     CarID INT PRIMARY KEY,
     Brand VARCHAR(50),
     Model VARCHAR(50),
