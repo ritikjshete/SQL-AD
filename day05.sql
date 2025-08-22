@@ -8,7 +8,7 @@ CREATE TABLE Employee (
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
     Salary INT
-);
+); 
 
 -- Insert 30 Rows in this DB
 INSERT INTO Employee VALUES
