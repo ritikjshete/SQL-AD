@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS CarDB;
 USE CarDB;
 
 -- Create Cars Table in Database 
-
+ 
 CREATE TABLE Cars ( 
     CarID INT PRIMARY KEY, 
     Brand VARCHAR(50),
